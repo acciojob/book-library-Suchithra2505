@@ -31,8 +31,8 @@ flex-direction:column;
 	
 }
 #author{
-	background-color:rgb(46, 204, 113);
-	color:white;
+	
+	color:#777777;
 }
 img{
 	display:flex;
@@ -40,7 +40,7 @@ img{
 	display-direction:column;
 }
 #price{
-	background-color:#2ecc71;
+	background-color:rgb(119, 119, 119);
 	color:white;
 	height:5vh;
 	width:100vw;
