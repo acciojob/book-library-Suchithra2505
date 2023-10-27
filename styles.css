@@ -31,7 +31,7 @@ flex-direction:column;
 	
 }
 #author{
-	color:rgb(46, 204, 113);
+	background-color:rgb(46, 204, 113);
 }
 img{
 	display:flex;
