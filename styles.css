@@ -33,6 +33,16 @@ flex-direction:column;
 	color:rgb(119, 119, 119);
 	background-color:rgb(46,204,113);
 }
+#author1{
+	
+	color:rgb(119, 119, 119);
+	background-color:rgb(46,204,113);
+}
+#author2{
+	
+	color:rgb(119, 119, 119);
+	background-color:rgb(46,204,113);
+}
 img{
 	display:flex;
 	justify-content:center;
