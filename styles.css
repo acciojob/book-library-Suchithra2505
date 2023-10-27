@@ -49,3 +49,23 @@ img{
 	justify-content:center;
 	padding-top:10px;
 }
+#price1{
+	background-color:rgb(46,204,113);
+	color:white;
+	height:5vh;
+	width:100vw;
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:center;
+	padding-top:10px;
+}
+#price2{
+	background-color:rgb(46,204,113);
+	color:white;
+	height:5vh;
+	width:100vw;
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:center;
+	padding-top:10px;
+}
